@@ -1,0 +1,10 @@
+import mysql.connector
+connection = mysql.connector.connect(user='root', password = "Lsw159357!", host="127.0.0.1")
+'''
+* 여기까지 한 것 (12/21)
+1. anaconda 설치 (32bit python 까지 환경 구축)
+2. vs code 설치
+3. xingApi 설치 (이베스트 증권, 32bit virenv 필요 이유)
+4. mysql server, workbench 설치
+5. pip install mysql-connector-python
+'''
